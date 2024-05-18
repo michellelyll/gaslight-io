@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "98FC2B7F-3DE6-44E0-8111-59B74F874C90"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F5788FA-7044-4681-9E0D-C5074C2F00C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "taskbait/Views/RegisterView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "RegisterView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "5F5788FA-7044-4681-9E0D-C5074C2F00C5 - 2c308ac277fd4013"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of taskbait.RegisterView.viewModel : taskbait.RegisterViewViewModel"
+                  moduleName = "taskbait"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michelle/Desktop/TaskBait%20App/taskbait/taskbait/Views/RegisterView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "5F5788FA-7044-4681-9E0D-C5074C2F00C5 - 459d3fe2ad466bd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "taskbait.RegisterView.viewModel.getter : taskbait.RegisterViewViewModel"
+                  moduleName = "taskbait"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michelle/Desktop/TaskBait%20App/taskbait/taskbait/Views/RegisterView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "5F5788FA-7044-4681-9E0D-C5074C2F00C5 - 530b69f43e655c02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "taskbait.RegisterView.$viewModel.getter : SwiftUI.ObservedObject&lt;taskbait.RegisterViewViewModel&gt;.Wrapper"
+                  moduleName = "taskbait"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michelle/Desktop/TaskBait%20App/taskbait/taskbait/Views/RegisterView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11">
+               </Location>
+               <Location
+                  uuid = "5F5788FA-7044-4681-9E0D-C5074C2F00C5 - 90aec0d1135d08ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of taskbait.RegisterView.init(viewModel: @autoclosure () -&gt; taskbait.RegisterViewViewModel) -&gt; taskbait.RegisterView"
+                  moduleName = "taskbait"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michelle/Desktop/TaskBait%20App/taskbait/taskbait/Views/RegisterView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
